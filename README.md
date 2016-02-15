@@ -29,7 +29,7 @@ const tree = hx`
     ${vsidebar(vdom.h, data, { className: 'sidebar' })}
   </section>
 `
-console.log(vdom.render(tree).toString())
+console.log(vdom.create(tree).toString())
 ```
 yields
 ```html
