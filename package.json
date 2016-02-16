@@ -1,6 +1,6 @@
 {
   "name": "virtual-sidebar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nested sidebar for virtual-dom",
   "main": "index.js",
   "scripts": {
